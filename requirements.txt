@@ -1,0 +1,10 @@
+streamlit
+streamlit-mic-recorder
+faster-whisper
+sounddevice
+scipy
+numpy
+torch
+google-genai
+python-dotenv
+pydantic
