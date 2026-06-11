@@ -8,3 +8,9 @@ torch
 google-genai
 python-dotenv
 pydantic
+langchain
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-google-genai
+chromadb
